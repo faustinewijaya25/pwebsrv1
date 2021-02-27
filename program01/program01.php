@@ -18,5 +18,6 @@
 
       <h2>Hello, <?php echo $guestName ?></h2>
       <h1>Happy <?php echo $today ?></h1>
+      
     </body>
   </html>
